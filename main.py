@@ -19,7 +19,7 @@ if ( len(plateNumber) == 6 or len(plateNumber) == 7 or len(plateNumber) == 8 ):
 
     else:
 
-      print("Your plate number should start with 3 alphabets for old plate number and 4 or 5 alphabets for new plate number)
+      print("Your plate number should start with 3 alphabets for old plate number and 4 or 5 alphabets for new plate number")
 
 else:
 
